@@ -2,6 +2,7 @@
 
 * 制作期間： 7日間
 * 使用技術： Unity,C#
+* プロダクト紹介映像: https://youtu.be/Il8LqphmQdc
 
 [![IMAGE ALT TEXT HERE](thumbnailImage.png)](https://youtu.be/Il8LqphmQdc)
 
