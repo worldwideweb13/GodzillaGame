@@ -1,6 +1,6 @@
 ###ヤシオリ作戦
 * 制作期間： 7日間
 * 使用技術： Unity,C#
-* GitHub: https://github.com/worldwideweb13/GodzillaGame
+[![IMAGE ALT TEXT HERE](thumbnailImage.png)](https://youtu.be/Il8LqphmQdc)
 
 ゲーム開発に興味があったため、ゴジラをテーマにしたダンジョンゲームを開発してみました。初めてのUnityで完全独学だったため、操作に慣れるまでに苦労しましたが、自分でゴジラのアクションを作っていく過程は楽しく、夢中で制作することができました。
